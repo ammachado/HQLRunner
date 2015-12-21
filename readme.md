@@ -11,5 +11,6 @@ How to use
 
 Screenshot
 ------------------
+![Image](https://raw.githubusercontent.com/sbahmani/HQLRunner/master/screenshot.png)
 
 
